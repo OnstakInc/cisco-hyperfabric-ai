@@ -61,11 +61,11 @@ Click on the top right name and toggle to Beta mode.
 ### Step 2: To Create AI Clusters from a pre-defined size template. Select AI Clusters
 
 
-<img width="236" height="199" alt="image" src="https://github.com/user-attachments/assets/5226c739-78ba-44fe-87c7-b102cbaae869" />
-<img width="232" height="199" alt="image" src="https://github.com/user-attachments/assets/916d2aad-64c2-419e-aa63-bceee0b21a43" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/5226c739-78ba-44fe-87c7-b102cbaae869" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/916d2aad-64c2-419e-aa63-bceee0b21a43" />
 </br>
-<img width="265" height="207" alt="image" src="https://github.com/user-attachments/assets/687216ee-9db1-4699-b8cb-b43fe589f072" />
-<img width="203" height="207" alt="image" src="https://github.com/user-attachments/assets/41fd7bf4-6fc1-4ddd-8ec6-20ee67a89393" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/687216ee-9db1-4699-b8cb-b43fe589f072" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/41fd7bf4-6fc1-4ddd-8ec6-20ee67a89393" />
 
 ---
 
