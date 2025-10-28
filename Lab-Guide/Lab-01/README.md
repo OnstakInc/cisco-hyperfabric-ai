@@ -63,9 +63,9 @@ Follow these steps to create a new fabric.
 
 ### Step 1: Select Fabrics
 
-<img width="217" height="70" alt="image" src="https://github.com/user-attachments/assets/e7df47ec-da39-44e6-877a-679713ed4c82" />
-
-<img width="315" height="191" alt="image" src="https://github.com/user-attachments/assets/e138fac8-46af-4eb0-b30b-57fcfedfce46" />
+<img width="315" height="191" alt="image" src="https://github.com/user-attachments/assets/e7df47ec-da39-44e6-877a-679713ed4c82" />
+</br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e138fac8-46af-4eb0-b30b-57fcfedfce46" />
 
 ---
 
@@ -100,33 +100,34 @@ Click Save
 
 ### Step 5: Click Preview changes
 
-<img width="390" height="226" alt="image" src="https://github.com/user-attachments/assets/f905522b-4b09-41d2-8806-dbe86a1d442d" />
-
-<img width="393" height="299" alt="image" src="https://github.com/user-attachments/assets/4af202fd-8e22-4ae1-88ec-e0c8f2a0c0ba" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f905522b-4b09-41d2-8806-dbe86a1d442d" />
+</br>
+</br>
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4af202fd-8e22-4ae1-88ec-e0c8f2a0c0ba" />
 
 ---
 
 ### Step 6: Click Review Configuration. Click Comment and push
 
-<img width="299" height="192" alt="image" src="https://github.com/user-attachments/assets/292aabfc-00b6-4203-8d75-dbcebb596dab" />
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/292aabfc-00b6-4203-8d75-dbcebb596dab" />
 
 ---
 
 ### Step 7: Go back to Fabrics, click Ellipse. Select Calculate BoM
 
-<img width="468" height="222" alt="image" src="https://github.com/user-attachments/assets/d5c079a2-ba8c-44b9-a91d-0d658aff1404" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d5c079a2-ba8c-44b9-a91d-0d658aff1404" />
 
 ---
 
 ### Step 8: Click Request estimate ID
 
-<img width="363" height="288" alt="image" src="https://github.com/user-attachments/assets/fdbba9a1-c7ac-4df7-b286-3d208387e630" />
+<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/fdbba9a1-c7ac-4df7-b286-3d208387e630" />
 
 ---
 
 ### Step 9: Submit the BoM
 
-<img width="373" height="195" alt="image" src="https://github.com/user-attachments/assets/e6fad830-223e-4d6a-be6f-1b44fb6e3dba" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/e6fad830-223e-4d6a-be6f-1b44fb6e3dba" />
 
 
 **Check your email.** Confirm that you receive an auto generated email.
