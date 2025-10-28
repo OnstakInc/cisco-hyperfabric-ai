@@ -29,7 +29,7 @@
 
 ---
 
-### Create Fabric and BOM using the Hyperfabric designer
+### Create a Large Size Nexus Hyperfabric AI solution using the Cisco Nexus Hyperfabric designer
 
 Login into Cisco Hyperfabric AI portal using the URL listed below:
 https://hyperfabric.cisco.com
