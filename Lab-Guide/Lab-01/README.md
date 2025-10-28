@@ -71,7 +71,7 @@ Follow these steps to create a new fabric.
 
 ### Step 2: Click + Add new fabric
 
-<img width="322" height="228" alt="image" src="https://github.com/user-attachments/assets/2a860847-3080-489a-a955-0bcf9ff8746a" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/2a860847-3080-489a-a955-0bcf9ff8746a" />
 
 ---
 
@@ -100,10 +100,10 @@ Click Save
 
 ### Step 5: Click Preview changes
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f905522b-4b09-41d2-8806-dbe86a1d442d" />
+<img width="450" height="500" alt="image" src="https://github.com/user-attachments/assets/f905522b-4b09-41d2-8806-dbe86a1d442d" />
 </br>
 </br>
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4af202fd-8e22-4ae1-88ec-e0c8f2a0c0ba" />
+<img width="430" height="350" alt="image" src="https://github.com/user-attachments/assets/4af202fd-8e22-4ae1-88ec-e0c8f2a0c0ba" />
 
 ---
 
