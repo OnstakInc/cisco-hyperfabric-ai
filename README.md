@@ -9,7 +9,7 @@
 
 ## Lab Guide
 
-Click below to access the lab excercises:
+Click [here](https://onstakinc.github.io/cisco-hyperfabric-ai/) to access the lab excercises
 
 ### [Lab Guide Home](./Lab-Guide/)
 
