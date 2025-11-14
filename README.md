@@ -8,3 +8,12 @@
 # Cisco Nexus Hyperfabric AI
 
 ## Lab Guide
+
+Click below to access the lab excercises:
+
+###[Lab Guide Home](./Lab-Guide/)
+
+Or jump directly to a specific lab:
+-[Lab 1](./Lab-Guide/Lab-01)
+-[Lab 2](./Lab-Guide/Lab-02)
+
