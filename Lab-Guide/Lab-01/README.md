@@ -1,6 +1,10 @@
 # Cisco Nexus Hyperfabric AI - Lab Guide
 ## Lab 01: Create Fabric and BOM using the Hyperfabric designer
 
+**Navigation:** [← Lab Guide Home](./README) | [Next: Lab 2 →](./Lab-02)
+
+---
+
 ## Table of Contents
 
 [Hyperfabric Classic & Beta Modes](#hyperfabric-classic--beta-modes)
@@ -131,3 +135,10 @@ Click Save
 
 
 **Check your email.** Confirm that you receive an auto generated email.
+
+
+## Navigation
+
+- [← Back to Lab Guide Home](./README)
+- [Next: Lab 2 →](./Lab-02)
+- [Back to Repository Home](../)
