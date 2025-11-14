@@ -11,7 +11,7 @@
 
 Click below to access the lab excercises:
 
-###[Lab Guide Home](./Lab-Guide/)
+### [Lab Guide Home](./Lab-Guide/)
 
 Or jump directly to a specific lab:
 -[Lab 1](./Lab-Guide/Lab-01)
